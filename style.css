@@ -1,0 +1,28 @@
+
+h1 {
+    color: black;
+    font-style: italic;
+}
+
+.position_name {
+    color:grey;
+    font-style: italic
+}
+
+.description {
+    font-weight: bold;
+    font-style: italic;
+}
+
+html {
+    background-color: azure;
+}
+
+.new_shit {
+    font-size: large;
+    font-size:large
+}
+
+table.head {
+    font-weight:600;
+}
